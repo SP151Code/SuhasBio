@@ -25,7 +25,12 @@ Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interste
 - Create a startup in the field of CS
 - Challeng myself to pursue better
 - Work for a FAANG Company sometime
-- Enjoy Life In general
+
+#### My Projects:
+- https://aja-animal-justice-association.herokuapp.com
+- https://ahs-model-un.netlify.app/
+- https://elam-room319.netlify.app/
+- https://interhax.org/
 
 #### :computer: Programming languages and tools: 
 <p>

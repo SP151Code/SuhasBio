@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Suhas Reddy Palawala and I am currently intersted in pursuing Computer Science, Music, and Buisness at the graduate level!  
 
-<img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/vibe.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/vib.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 

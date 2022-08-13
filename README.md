@@ -11,8 +11,8 @@ Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interste
 
 
 #### 🌱 Things I am currently working on: 
-- Perfecting my schools in the field of Computer Science  
-- Taking online courses about Data Science and Machine Learning 
+- Perfecting my skills in the field of Computer Science  
+- Taking online courses about Data Science and ML 
 - Creating prjects in web dev and the join field of music + CS
 
 #### :muscle: Things I am challenging myself with:

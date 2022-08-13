@@ -21,6 +21,12 @@ Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interste
 - Exercising 3 days a week
 - Perfecting my skills in Music
 
+#### Things I am hope to do in life:
+- Create a startup in the field of CS
+- Challeng myself to pursue better
+- Work for a FAANG Company sometime
+- Enjoy Life In general
+
 #### :computer: Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>

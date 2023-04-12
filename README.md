@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-palawala-5a2055230/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:suhrpal@gmail.com)
 
-Welcome to my Github page! I am Suhas Reddy Palawala and I am currently intersted in pursuing Computer Science, Music, and Buisness at the graduate level!  
+Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interested in pursuing Computer Science at the graduate level!  
 
 <img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/actualfootageofanidiot(2).jpg" width="50%" height="auto" />
 

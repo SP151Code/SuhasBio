@@ -13,7 +13,7 @@ Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interest
 #### 🌱 Things I am currently working on: 
 - Perfecting my skills in the field of Computer Science  
 - Taking online courses about Data Science and ML 
-- Creating prjects in web dev and the join field of music + CS
+- Creating projects in WEB DEV and JAVA
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -23,8 +23,7 @@ Welcome to my Github page! I am Suhas Reddy Palawala and I am currently interest
 
 #### Things I am hope to do in life:
 - Create a startup in the field of CS
-- Challeng myself to pursue better
-- Work for a FAANG Company sometime
+- Work with Artificial Intelligence and Machine Learning in the industry
 
 #### My Projects:
 

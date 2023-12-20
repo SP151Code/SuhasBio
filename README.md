@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Suhas Palawala and I am currently interested in pursuing Computer Science at the graduate level!  
 
-<img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/actualfootageofanidiot(2).jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/photo.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 

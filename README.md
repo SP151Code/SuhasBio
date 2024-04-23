@@ -13,12 +13,6 @@ Welcome to my Github page! I am Suhas Palawala and I am currently interested in 
 - Taking online courses about Data Science and ML 
 - Creating Machine Learning Projects and Website Platforms
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Perfecting my skills in Music
-
 #### Things I am hope to do in life:
 - Create a startup in the field of CS
 - Work with Artificial Intelligence and Machine Learning in the industry

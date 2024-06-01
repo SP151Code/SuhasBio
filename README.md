@@ -1,8 +1,6 @@
 ### Hi There! 👋 
 ### I'm Suhas Palawala!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-p-5a2055230/)
-
 Welcome to my Github page! I am Suhas Palawala and I am currently interested in pursuing Computer Science and specializing in Artifical Intelligence!  
 
 <img align="right" alt="img" src="https://github.com/quazarcoding/quazarcoding/blob/main/photo.jpg" width="50%" height="auto" />
